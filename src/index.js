@@ -18,10 +18,10 @@ ReactDOM.render(
         name: "Anakin skywalker",
         photo: ANAKIN_IMAGE,
         nickname: "@dart_vader",
+        date: "26 fev."
       }}
       comment = "WTF? Who is Ray? Why she is Skywalker? Luke...?"
       image = {RAY_IMAGE}
-      date = {"26 февр."}
     />
 
   </React.StrictMode>,

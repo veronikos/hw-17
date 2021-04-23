@@ -7,9 +7,6 @@ function Post(props) {
       <div className="Comment">
         <UserInfo user={props.author} />
           <div>
-              <div className="Comment-date">
-                {props.date}
-              </div>
               <div className="Comment-text">{props.comment}</div>
               <img
               className="Image"

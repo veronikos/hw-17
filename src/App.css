@@ -26,12 +26,18 @@ body {
 .Image {
   border-radius: 20px;
   float: right;
+  width: 550px;
 }
 
 .Comment {
   padding: 20px;
   border: aquamarine solid 1px;
   border-radius: 20px;
+  width: auto;
+}
+
+.Comment-text {
+  text-align: right;
 }
 
 .UserInfo {
@@ -53,7 +59,7 @@ body {
 
 .Comment-date {
   font-size: 20px;
-  color: darkcyan;
+  color: white;
   width: 100px;
   text-align: center;
 }
